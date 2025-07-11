@@ -2,6 +2,8 @@
 
 This project demonstrates a full business intelligence workflow — from raw source data to interactive dashboards — using Microsoft’s modern data stack. It includes a complete ETL process and dimensional data model, visualized through a Power BI dashboard.
 
+<img width="2109" height="1156" alt="image" src="https://github.com/user-attachments/assets/abf931c5-9f3a-4d9f-9bb5-1078d8824c76" />
+
 ---
 
 ## 🗂️ Project Files
